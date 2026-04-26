@@ -13,7 +13,7 @@
     "cheerio": "^1.0.0-rc.12"
   },
   "engines": {
-    "node": "20.x"
+    "node": "24.x"
   },
   "overrides": {
     "undici": "5.28.4"
